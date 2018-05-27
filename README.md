@@ -12,6 +12,4 @@ Resources:
 
 We supply ImageNet-10 dataset, which has been nonlinearly projected onto a 1000-dim anchor feature space. 
 
-You can download it by following links: ImageNet-10 dataset: BaiduYun.
-
-
+You can download it by following links: ImageNet-10 dataset: BaiduYun https://pan.baidu.com/s/1sGB29cnVQ6cYuH4GkKr_NQ.
