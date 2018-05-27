@@ -10,7 +10,7 @@ This code has been test on Matlab 2017a.
 
 Resources:
 
-We supply ImageNet-10 dataset, which has been nonlinearly projected by using 1000 anchor points. 
+We supply ImageNet-10 dataset, which has been nonlinearly projected onto a 1000-dim anchor feature space. 
 
 You can download it by following links: ImageNet-10 dataset: BaiduYun.
 
