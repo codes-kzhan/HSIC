@@ -1,5 +1,4 @@
 clear all;  clear memory;
-addpath('./Utility')
 
 load ImageNet10Cls_Used
 
